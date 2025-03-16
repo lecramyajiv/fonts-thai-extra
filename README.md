@@ -15,3 +15,9 @@
     9. SP-Hanuman
     10. SP-Aphaimanee
 3. Alibaba Sans Thai
+4. Google Fonts-Cadson Demak
+    1. Kanik
+    2. Prompt
+    3. Anuphan
+    4. Athiti
+    5. Bai Jamjuree

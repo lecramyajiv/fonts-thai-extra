@@ -2,3 +2,11 @@
 2. [Arundina-otf](https://github.com/tlwg/fonts-arundina/releases/download/v0.3.2/otf-arundina-0.3.2.tar.xz)
 3. [Siampradesh Family](https://github.com/tlwg/fonts-siampradesh)
 4. [AlibabaSansThai Regular](https://fonts.alibabadesign.com/AlibabaSansThai/AlibabaSansThai-Rg.zip)
+5. [Kanik](https://github.com/cadsondemak/kanit)
+6. [Prompt](https://github.com/cadsondemak/prompt)
+7. [Anuphan](https://github.com/cadsondemak/Anuphan)
+8. [Athiti](https://github.com/cadsondemak/athiti)
+9. []()
+10. []()
+
+. [SIPA Fonts](https://waa.inter.nstda.or.th/stks/pub/2020/20200217-13Fonts.zip)
