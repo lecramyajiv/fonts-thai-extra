@@ -23,3 +23,6 @@
     5. Bai Jamjuree
     6. Chakra-Petch
     7. Charm
+    8. Charmonam
+    9. Chonburi
+    10. Fah-Kwang
