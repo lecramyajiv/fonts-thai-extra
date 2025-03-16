@@ -32,14 +32,14 @@
     14. Koho
     15. Krub
     16. Maitree
-    13. Mali
-    14. Mitr
-    15. Niramit
-    16. pattaya
-    17. pridi
-    18. Sarabun
-    19. Sriracha
-    20. Srisakdi
-    21. Taviraj
-    22. Thasadith
-    23. Trirong
+    17. Mali
+    18. Mitr
+    19. Niramit
+    20. pattaya
+    21. pridi
+    22. Sarabun
+    23. Sriracha
+    24. Srisakdi
+    25. Taviraj
+    26. Thasadith
+    27. Trirong
