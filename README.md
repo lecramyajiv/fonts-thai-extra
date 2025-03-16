@@ -32,3 +32,7 @@
     14. Koho
     15. Krub
     16. Maitree
+    13. Mali
+    14. Mitr
+    15. Niramit
+    16. pattaya
