@@ -21,3 +21,5 @@
     3. Anuphan
     4. Athiti
     5. Bai Jamjuree
+    6. Chakra-Petch
+    7. Charm
