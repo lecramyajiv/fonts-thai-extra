@@ -29,7 +29,3 @@
 29. [Taviraj](https://github.com/cadsondemak/taviraj)
 30. [Thasadith](https://github.com/cadsondemak/Thasadith)
 31. [Trirong](https://github.com/cadsondemak/trirong)
-32. []()
-
-
-. [SIPA Fonts](https://waa.inter.nstda.or.th/stks/pub/2020/20200217-13Fonts.zip)

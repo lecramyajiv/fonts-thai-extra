@@ -1,6 +1,9 @@
 # fonts-thai-extra
 
-
+The Thai language is the official language and is
+spoken in Thailand˙This is an extra collection of
+fonts for the thai language.It contains the
+following collection:
 
 1. Arundina
 2. Siampradesh Font Family
